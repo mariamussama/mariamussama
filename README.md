@@ -1,4 +1,4 @@
-#Hi there, I am Mariam Abdelaziz ✨
+### Hi there, I am Mariam Abdelaziz ✨
 
 I am a graduating senior computer engineering student (minor Math) at the American university in cairo.
 
@@ -25,6 +25,7 @@ I am a graduating senior computer engineering student (minor Math) at the Americ
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+<!--
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamussama"/>
 
 
