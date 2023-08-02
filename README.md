@@ -3,7 +3,7 @@
 I am a Graduating Senior Computer Engineering student (minor Math) at the American university in cairo.
 
 - 🔭 I’m currently working as a Undergraduate Teaching Assistant in the CS department at the the American university in cairo.
-- 🌱 I’m currently learning web development, mobile development, cybersecurity and machine learning.
+- 🌱 I’m currently learning Web Development, Mobile Development, Cybersecurity and Machine Learning.
 - 📫 How to reach me: mariam2000@aucegypt.edu
 
 ### :hammer_and_wrench: Languages and Tools :
