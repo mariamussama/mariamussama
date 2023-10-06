@@ -5,6 +5,7 @@ I am a Graduating Senior Computer Engineering student (minor Math) at the Americ
 - 🔭 I’m currently working as a Undergraduate Teaching Assistant in the CS department at the the American University in cairo.
 - 🌱 I’m currently learning Web Development, Mobile Development, Cybersecurity and Machine Learning.
 - 📫 How to reach me: mariam2000@aucegypt.edu
+- 😀 My Resume: https://docs.google.com/document/d/1VHWbFU6o3WIGQy8Yf2E5M6af8r-DgkYwSdk54SX7nyI/edit?usp=sharing
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
